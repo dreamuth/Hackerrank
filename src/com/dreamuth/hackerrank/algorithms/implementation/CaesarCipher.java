@@ -1,13 +1,13 @@
 package com.dreamuth.hackerrank.algorithms.implementation;
 
-import com.dreamuth.hackerrank.Soluction;
+import com.dreamuth.hackerrank.Solution;
 
 import java.util.Scanner;
 
 /**
  * Created by DreamUth on 2015-09-27.
  */
-public class CaesarCipher implements Soluction
+public class CaesarCipher implements Solution
 {
     @Override
     public void solve()
