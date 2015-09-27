@@ -1,1 +1,1 @@
-# com.dreamuth.hackerrank.Hackerrank
+#My solutions to Hackerrank problems
